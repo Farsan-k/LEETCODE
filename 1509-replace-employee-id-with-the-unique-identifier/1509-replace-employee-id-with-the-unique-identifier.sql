@@ -1,0 +1,1 @@
+SELECT EmployeeUNI.unique_id, Employees.name FROM Employees LEFT JOIN EmployeeUNI ON Employees.id = EmployeeUNI.id AND COALESCE(NULL,unique_id);
