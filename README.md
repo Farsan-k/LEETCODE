@@ -8,5 +8,6 @@
 | [0577-employee-bonus](https://github.com/Farsan-k/LEETCODE/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/Farsan-k/LEETCODE/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Farsan-k/LEETCODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Farsan-k/LEETCODE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Farsan-k/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
